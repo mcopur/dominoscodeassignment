@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vouchers.API", "Vouchers.API\Vouchers.API.csproj", "{B7729F37-2FC4-4388-A46B-805FAEC49345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vouchers.API.Tests", "Vouchers.API.Tests\Vouchers.API.Tests.csproj", "{61B614EF-6CF0-4206-B50A-9B2EC25F846E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7729F37-2FC4-4388-A46B-805FAEC49345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7729F37-2FC4-4388-A46B-805FAEC49345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7729F37-2FC4-4388-A46B-805FAEC49345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7729F37-2FC4-4388-A46B-805FAEC49345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B614EF-6CF0-4206-B50A-9B2EC25F846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B614EF-6CF0-4206-B50A-9B2EC25F846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B614EF-6CF0-4206-B50A-9B2EC25F846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B614EF-6CF0-4206-B50A-9B2EC25F846E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B2D03D-B5C8-4261-BD32-CA38FAED804F}
+	EndGlobalSection
+EndGlobal

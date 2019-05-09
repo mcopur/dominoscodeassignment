@@ -1,0 +1,7 @@
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\bin\Debug\Vouchers.csv
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\bin\Debug\Vouchers.Generator.exe.config
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\bin\Debug\Vouchers.Generator.exe
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\bin\Debug\Vouchers.Generator.pdb
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\obj\Debug\Vouchers.Generator.csproj.CoreCompileInputs.cache
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\obj\Debug\Vouchers.Generator.exe
+D:\Source\git\InterviewChallenge\Challenge1\Vouchers.Generator\obj\Debug\Vouchers.Generator.pdb
